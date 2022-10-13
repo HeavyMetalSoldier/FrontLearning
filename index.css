@@ -111,3 +111,72 @@ html {
   padding-right: 60px;
   padding-left: 71px;
 }
+.son {
+  margin-left: 720px;
+  margin-top: 67px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 400;
+  width: 285px;
+  height: 27px;
+}
+.aboutson {
+  width: 531px;
+  height: 194px;
+  margin-left: 505px;
+  margin-top: 20px;
+  line-height: 40px;
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
+.popular2 {
+  display: flex;
+  width: 417px;
+  height: 630px;
+  background-color: #f3f3f3;
+  margin-left: 560px;
+  margin-top: 35px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+.sw {
+  margin-left: 735px;
+  margin-top: 45px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 300;
+  width: 285px;
+  height: 27px;
+}
+.aboutsw {
+  width: 531px;
+  height: 194px;
+  margin-left: 505px;
+  margin-top: 20px;
+  line-height: 40px;
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
+.des {
+  margin-left: 680px;
+  margin-top: 45px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  width: 285px;
+  height: 32px;
+}
+.description {
+  width: 531px;
+  height: 194px;
+  margin-left: 505px;
+  margin-top: 20px;
+  line-height: 40px;
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
